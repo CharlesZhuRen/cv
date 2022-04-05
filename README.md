@@ -1,4 +1,4 @@
-[Email](charleszhuren@gmail.com) / [Github](https://github.com/CharlesZhuRen) / [Twitter](https://twitter.com/renzhu_charles) 
+[Email](mailto:charleszhuren@gmail.com) / [Github](https://github.com/CharlesZhuRen) / [Twitter](https://twitter.com/renzhu_charles) 
 
 ## Technical Experience
 
