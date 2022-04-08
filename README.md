@@ -1,18 +1,27 @@
-[Email](mailto:charleszhuren@gmail.com) / [Github](https://github.com/CharlesZhuRen) / [Twitter](https://twitter.com/renzhu_charles) 
+[Email](mailto:charleszhuren@gmail.com) / [Github](https://github.com/CharlesZhuRen) / [Twitter](https://twitter.com/renzhu_charles)
 
-## Technical Experience
+### Technical Experience
+**Gematria Tech** *Software Engineer Internship*
 
-TODO
+- 
 
-## Education
+**Research on Text Summarization**
 
-**Northeastern University**
+### Education
 
-2019-2023, Shenyang, China
+**Northeastern University, Shenyang, China** *2019-2023*
 
-Bachelor of Software Engineering
+- Bachelor of Software Engineering
+- GPA: 3.8
+- Outstanding Student Leader
 
 
-## Skills and Technologies
+### Skills and Technologies
+**Programming:** Python, Java, Go, Matlab, C++, C
+**Platform:** 
+**Tools:** Latex, 
 
-## Others
+
+### Ongoing
+**GNN+Recommender System**
+**Fraud Group Detection**
