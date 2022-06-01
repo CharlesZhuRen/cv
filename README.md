@@ -3,8 +3,6 @@
 ### Technical Experience
 **Gematria Tech** *Software Engineer Internship*
 
-- 
-
 **Research on Text Summarization**
 
 ### Education
@@ -22,6 +20,11 @@
 **Tools:** Latex, 
 
 
-### Ongoing
+### Ongoing Projects
 **GNN+Recommender System**
 **Fraud Group Detection**
+
+### Others
+**Sports** tennis, table tennis, swimming, running, cycling, basketball, badmintion, volleyball, gas volleyball
+
+**Music** harmonica, guitar, pop, folk
