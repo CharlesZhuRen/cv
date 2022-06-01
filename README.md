@@ -16,12 +16,13 @@
 
 ### Skills and Technologies
 **Programming:** Python, Java, Go, Matlab, C++, C
-**Platform:** 
-**Tools:** Latex, 
+
+**Tools:** Latex, Colab, Git, 
 
 
 ### Ongoing Projects
 **GNN+Recommender System**
+
 **Fraud Group Detection**
 
 ### Others
