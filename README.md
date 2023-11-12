@@ -13,10 +13,10 @@
 
 ### Education
 
-**Northeastern University, Shenyang, China** *2019-2023*
+**Northeastern University, Shenyang, China** *2019.9-2023.6*
 
 - Bachelor of Software Engineering
-- GPA: 3.79
+- GPA: 3.68
 - Outstanding Student Leader
 
 
@@ -30,6 +30,15 @@
 to be fulfilled...
 
 ### Others
-**Sports** tennis, table tennis, swimming, running, cycling, basketball, badmintion, volleyball, gas volleyball
+**Sports** 
+- 🎾 Tennis (Played for three years in high school)
+- 🏓 Table tennis (Almost everyone in China can play it)
+- 🏊🏊 Swimming (Freestyle only)
+- 🏃 Running (Won 3rd in the 400m run in high school sports meeting)
+- 🚴 Cycling (Longest distance: 50km; Longest time: 5 hours)
+- 🏀 Basketball (Won 2nd in NEU Software College basketball game)
+- 🏸 Badmintion (A litlle)
+- 🏐 Volleyball (More than a little; Very talented but doesn't play much)
+- 🏐 Gas Volleyball (Won 3rd in NEU Software College gas volleyball game)
 
-**Music** harmonica, guitar, pop, folk
+**Music** 
