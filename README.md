@@ -1,44 +1,61 @@
-[Email](mailto:charleszhuren@gmail.com) / [Github](https://github.com/CharlesZhuRen) / [Twitter](https://twitter.com/renzhu_charles)
+[Email-1](mailto:charleszhuren@gmail.com) / [Email-2](mailto:zhuren@link.cuhk.edu.hk) / [Github](https://github.com/CharlesZhuRen)
 
 ### Technical Experience
-**Gematria Tech** *Software Engineer Internship 2022.1-2022.5*
 
-**Research on Text Summarization**
-
-**Research on GNN+Recommendar System**
-
-**Research on Fraud Group Detection**
-
-****
 
 ### Education
 
-**Northeastern University, Shenyang, China** *2019.9-2023.6*
+**The Chinese University of Hong Kong** *2023.9-2024.7 (Expected)*
 
-- Bachelor of Software Engineering
+Master of Science in Computer Science
+
+**Northeastern University (China)** *2019.9-2023.6*
+
+Bachelor of Software Engineering
 - GPA: 3.68
-- Outstanding Student Leader
+- Outstanding Student Leader * 2
 
 
 ### Skills and Technologies
-**Programming:** Python, Java, Go, Matlab, C++, C
+**Programming Languages:** Python, Java, C++, C, Matlab, Go
+
+**Frameworks**
 
 **Tools:** Latex, Colab, Git, 
 
+**OS:** Linux, Windows, MacOS
+
+### Awards and Scholarships
+
+
+
+### Acticities
+
+- Cambridge
+- MIT
+- UCLA
+
 
 ### Ongoing Projects
-to be fulfilled...
+
+- \[Kaggle\] Optiver - Trading At The Close Introduction 
 
 ### Others
 **Sports** 
 - 🎾 Tennis (Played for three years in high school)
 - 🏓 Table tennis (Almost everyone in China can play it)
-- 🏊🏊 Swimming (Freestyle only)
+- 🏊 Swimming (Freestyle only)
 - 🏃 Running (Won 3rd in the 400m run in high school sports meeting)
 - 🚴 Cycling (Longest distance: 50km; Longest time: 5 hours)
 - 🏀 Basketball (Won 2nd in NEU Software College basketball game)
 - 🏸 Badmintion (A litlle)
-- 🏐 Volleyball (More than a little; Very talented but doesn't play much)
+- 🏐 Volleyball (More than a little; Very talented but play not much)
 - 🏐 Gas Volleyball (Won 3rd in NEU Software College gas volleyball game)
 
 **Music** 
+- C-pop
+
+**Movies**
+
+**Series**
+
