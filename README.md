@@ -1,59 +1,60 @@
-[Email-1](mailto:charleszhuren@gmail.com) / [Email-2](mailto:zhuren@link.cuhk.edu.hk) / [Github](https://github.com/CharlesZhuRen)
+[Email-1](mailto:charleszhuren@gmail.com) / 
+[Email-2](mailto:zhuren@link.cuhk.edu.hk) / 
+[Github](https://github.com/CharlesZhuRen) /
+[Linkedin](https://www.linkedin.com/in/ren-zhu-ab0889236/)
 
-### Technical Experience
+## Education
 
-
-### Education
-
-**The Chinese University of Hong Kong** *2023.9-2024.7 (Expected)*
+### The Chinese University of Hong Kong
+*2023.9-2024.10 (Expected)*
 
 Master of Science in Computer Science
 
-**Northeastern University (China)** *2019.9-2023.6*
+### Northeastern University (China)
+*2019.9-2023.6*
 
 Bachelor of Software Engineering
 - GPA: 3.68
 - Outstanding Student Leader * 2
 
+## Experience
 
-### Skills and Technologies
+
+## Projects
+
+
+
+
+
+## Skills
 **Programming Languages:** Python, Java, C++, C, Matlab, Go
 
 **Frameworks**
 
 **Tools:** Latex, Colab, Git, 
 
-**OS:** Linux, Windows, MacOS
+**OS:** Linux(Ubuntu, Arch), Windows, MacOS
 
-### Awards and Scholarships
+## Awards and Hornors
 
 
-
-### Acticities
+## Acticities
 
 - Cambridge
 - MIT
 - UCLA
 
 
-### Ongoing Projects
+## Ongoing Projects
 
-- \[Kaggle\] Optiver - Trading At The Close Introduction 
 
-### Others
+## Others
 **Sports** 
-- 🎾 Tennis (Played for three years in high school)
-- 🏓 Table tennis (Almost everyone in China can play it)
-- 🏊 Swimming (Freestyle only)
-- 🏃 Running (Won 3rd in the 400m run in high school sports meeting)
-- 🚴 Cycling (Longest distance: 50km; Longest time: 5 hours)
-- 🏀 Basketball (Won 2nd in NEU Software College basketball game)
-- 🏸 Badmintion (A litlle)
-- 🏐 Volleyball (More than a little; Very talented but play not much)
-- 🏐 Gas Volleyball (Won 3rd in NEU Software College gas volleyball game)
+- Proficient: 🚴 Cycling, 🎾 Tennis, 🏃 Running, 🏐 Volleyball
+- Competence: 🏓 Table tennis, 🏊 Swimming, 🏐 Gas Volleyball
+- Advanced Beginner: 🏀 Basketball, 🏸 Badmintion
 
-**Music** 
-- C-pop
+**Music**
 
 **Movies**
 
